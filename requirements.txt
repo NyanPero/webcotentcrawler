@@ -1,0 +1,6 @@
+docker>=3.3.0
+click>=7.0
+pandas
+numpy
+Scrapy
+scrapy-splash
